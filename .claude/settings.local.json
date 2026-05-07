@@ -12,7 +12,8 @@
       "Read(//home/clawbot/.claude/**)",
       "Bash(chmod +x /opt/workspace/repo/claude-tutorial/.claude/skills/hf-research-reporter/scripts/fetch_leaderboard.py)",
       "Bash(python3 /opt/workspace/repo/claude-tutorial/.claude/skills/hf-research-reporter/scripts/fetch_leaderboard.py 3)",
-      "Bash(python3 *)"
+      "Bash(python3 *)",
+      "Bash(git push *)"
     ]
   }
 }
