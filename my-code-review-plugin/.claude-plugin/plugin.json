@@ -1,0 +1,8 @@
+{
+	"name":"my-code-review-plugin",
+	"description":"A code review plugin to learn the basics",
+	"version":"1.0.0",
+	"author":{
+		"name":"idlehk"
+	}
+}
