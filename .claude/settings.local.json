@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__hugging-face__paper_search",
+      "mcp__hugging-face__space_search",
+      "mcp__hugging-face__hub_repo_search",
+      "mcp__hugging-face__hub_repo_details",
+      "Bash(curl -s \"https://huggingface.co/api/spaces/open-llm-leaderboard/open_llm_leaderboard\")",
+      "Bash(python3 -c ' *)",
+      "Bash(curl -s \"https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard/raw/main/backend/app/services/leaderboard.py\")",
+      "Bash(curl -s \"https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard/raw/main/backend/app/config/base.py\")",
+      "Read(//home/clawbot/.claude/**)",
+      "Bash(chmod +x /opt/workspace/repo/claude-tutorial/.claude/skills/hf-research-reporter/scripts/fetch_leaderboard.py)",
+      "Bash(python3 /opt/workspace/repo/claude-tutorial/.claude/skills/hf-research-reporter/scripts/fetch_leaderboard.py 3)",
+      "Bash(python3 *)"
+    ]
+  }
+}
